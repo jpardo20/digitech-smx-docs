@@ -1,8 +1,5 @@
-# Avaluació (model comú del centre)
+# Avaluació (model comú)
 
-## Ponderació general per mòdul
-- **Pràctiques i activitats**: 60%
-- **Proves i exàmens**: 20%
-- **Actitud i participació**: 20%
-
-> La rúbrica específica i instruments d’avaluació s’indiquen a cada mòdul i a cada RA.
+- Pràctiques: 60%
+- Proves: 20%
+- Actitud: 20%

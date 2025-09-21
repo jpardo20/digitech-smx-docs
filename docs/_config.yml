@@ -2,16 +2,3 @@ title: Documentació SMX
 description: Apunts i recursos dels mòduls SMX (SMR) — GitHub Pages
 theme: jekyll-theme-minimal
 lang: ca
-logo: /docs/assets/logo.png
-show_downloads: false
-google_analytics:
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - README.md
-  - index.md
-  - cronograma.md
-  - avaluacio.md

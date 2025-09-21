@@ -1,15 +1,7 @@
-# Plantilla de càlcul de potència per a PSU
+# Plantilla de càlcul PSU
 
-| Component | TDP (W) | Quantitat | Subtotal (W) |
+| Component | TDP | Qty | Subtotal |
 |---|---:|---:|---:|
-| CPU |  | 1 |  |
-| GPU |  | 1 |  |
-| RAM |  | 2 |  |
-| SSD/HDD |  |  |  |
-| Ventiladors |  |  |  |
-| Altres |  |  |  |
-| **Total TDP estimat** |  |  |  |
-| **Marge 30%** |  |  |  |
-| **Potència PSU recomanada** |  |  |  |
-
-**Certificació suggerida**: 80 PLUS Bronze / Silver / Gold (segons pressupost i ús).
+| CPU | | 1 | |
+| GPU | | 1 | |
+| ... | | | |
