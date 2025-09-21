@@ -1,0 +1,157 @@
+.
+├── assets
+│   └── logo.png
+├── avaluacio.md
+├── _config.yml
+├── cronograma.md
+├── digitech-smx-docs.txt
+├── docs
+│   ├── assets
+│   │   └── logo.png
+│   ├── avaluacio.md
+│   ├── _config.yml
+│   ├── cronograma.md
+│   ├── index.md
+│   ├── m0221
+│   │   ├── activitats
+│   │   │   ├── index.md
+│   │   │   ├── RA1_activitats.md
+│   │   │   └── RA2_activitats.md
+│   │   ├── annexos
+│   │   │   ├── checklist_muntatge.md
+│   │   │   ├── index.md
+│   │   │   ├── ra2_formules_i_pinouts.md
+│   │   │   ├── ra2_plantilla_calcul_psu.md
+│   │   │   └── taula_fonts.md
+│   │   ├── avaluacio_m0221.md
+│   │   ├── cronograma_m0221.md
+│   │   ├── examens
+│   │   │   ├── index.md
+│   │   │   ├── T1.md
+│   │   │   ├── T2.md
+│   │   │   └── T3.md
+│   │   ├── index.md
+│   │   ├── programacio_didactica.md
+│   │   ├── RA1.md
+│   │   ├── RA2.md
+│   │   ├── RA3.md
+│   │   ├── RA4.md
+│   │   ├── RA5.md
+│   │   └── RA6.md
+│   ├── m0222
+│   │   ├── activitats
+│   │   │   └── index.md
+│   │   ├── annexos
+│   │   │   └── index.md
+│   │   ├── avaluacio_m0222.md
+│   │   ├── cronograma_m0222.md
+│   │   ├── examens
+│   │   │   └── index.md
+│   │   ├── index.md
+│   │   ├── RA1.md
+│   │   ├── RA2.md
+│   │   ├── RA3.md
+│   │   ├── RA4.md
+│   │   ├── RA5.md
+│   │   └── RA6.md
+│   ├── m0225
+│   │   ├── activitats
+│   │   │   └── index.md
+│   │   ├── annexos
+│   │   │   └── index.md
+│   │   ├── avaluacio_m0225.md
+│   │   ├── cronograma_m0225.md
+│   │   ├── examens
+│   │   │   └── index.md
+│   │   ├── index.md
+│   │   ├── RA1.md
+│   │   ├── RA2.md
+│   │   ├── RA3.md
+│   │   ├── RA4.md
+│   │   ├── RA5.md
+│   │   └── RA6.md
+│   └── optiu-python
+│       ├── activitats
+│       │   └── index.md
+│       ├── annexos
+│       │   └── index.md
+│       ├── avaluacio_optiu-python.md
+│       ├── cronograma_optiu-python.md
+│       ├── examens
+│       │   └── index.md
+│       ├── index.md
+│       ├── RA1.md
+│       ├── RA2.md
+│       ├── RA3.md
+│       ├── RA4.md
+│       ├── RA5.md
+│       └── RA6.md
+├── index.md
+├── m0221
+│   ├── activitats
+│   │   └── index.md
+│   ├── annexos
+│   │   └── index.md
+│   ├── avaluacio_m0221.md
+│   ├── cronograma_m0221.md
+│   ├── examens
+│   │   └── index.md
+│   ├── index.md
+│   ├── programacio_didactica.md
+│   ├── RA1.md
+│   ├── RA2.md
+│   ├── RA3.md
+│   ├── RA4.md
+│   ├── RA5.md
+│   └── RA6.md
+├── m0222
+│   ├── activitats
+│   │   └── index.md
+│   ├── annexos
+│   │   └── index.md
+│   ├── avaluacio_m0222.md
+│   ├── cronograma_m0222.md
+│   ├── examens
+│   │   └── index.md
+│   ├── index.md
+│   ├── RA1.md
+│   ├── RA2.md
+│   ├── RA3.md
+│   ├── RA4.md
+│   ├── RA5.md
+│   └── RA6.md
+├── m0225
+│   ├── activitats
+│   │   └── index.md
+│   ├── annexos
+│   │   └── index.md
+│   ├── avaluacio_m0225.md
+│   ├── cronograma_m0225.md
+│   ├── examens
+│   │   └── index.md
+│   ├── index.md
+│   ├── RA1.md
+│   ├── RA2.md
+│   ├── RA3.md
+│   ├── RA4.md
+│   ├── RA5.md
+│   └── RA6.md
+├── optiu-python
+│   ├── activitats
+│   │   └── index.md
+│   ├── annexos
+│   │   └── index.md
+│   ├── avaluacio_optiu-python.md
+│   ├── cronograma_optiu-python.md
+│   ├── examens
+│   │   └── index.md
+│   ├── index.md
+│   ├── RA1.md
+│   ├── RA2.md
+│   ├── RA3.md
+│   ├── RA4.md
+│   ├── RA5.md
+│   └── RA6.md
+└── README.md
+
+35 directories, 119 files
